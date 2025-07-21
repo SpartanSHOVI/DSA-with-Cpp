@@ -56,7 +56,7 @@ You can contribute by:
 ---
 
 ### 🧑‍💻 Maintainer
-Shubham Raut
-🎓 B.Tech – AI & DS (2nd Year)
-🏫 Sandip Institute of Technology and Research Centre, Nashik
-🔗 GitHub: SpartanSHOVI
+- Shubham Raut
+- 🎓 B.Tech – AI & DS (2nd Year)
+- 🏫 Sandip Institute of Technology and Research Centre, Nashik
+- 🔗 GitHub: SpartanSHOVI
