@@ -38,13 +38,14 @@ This content follows the academic syllabus of **Sandip Institute of Technology a
 
 ---
 
-
-💡 Ideal For
+### 💡 Ideal For
   Engineering students (B.Tech – CSE, AI & DS, etc.)
   Beginners learning C++ with DSA
   Coders preparing for interviews
 
-🤝 Contributions Welcome
+---
+
+### 🤝 Contributions Welcome
 You can contribute by:
   Improving explanations or code
   Adding new DSA examples
@@ -52,7 +53,9 @@ You can contribute by:
 
  how? : Fork the repo → Create a new branch → Submit a pull request 🚀
 
-🧑‍💻 Maintainer
+---
+
+### 🧑‍💻 Maintainer
 Shubham Raut
 🎓 B.Tech – AI & DS (2nd Year)
 🏫 Sandip Institute of Technology and Research Centre, Nashik
