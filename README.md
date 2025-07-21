@@ -47,9 +47,9 @@ This content follows the academic syllabus of **Sandip Institute of Technology a
 
 ### 🤝 Contributions Welcome
 You can contribute by:
-  Improving explanations or code
-  Adding new DSA examples
-  Optimizing algorithms
+-  Improving explanations or code
+-  Adding new DSA examples
+-  Optimizing algorithms
 
  how? : Fork the repo → Create a new branch → Submit a pull request 🚀
 
