@@ -38,16 +38,6 @@ This content follows the academic syllabus of **Sandip Institute of Technology a
 
 ---
 
-## 📁 Repository Structure
-
-DSA-with-Cpp/
-│
-├── Unit1_Intro_To_DataStructure_Algorithm/
-├── Unit2_Searching_Sorting_Algorithms/
-├── Unit3_Linked_List/
-├── Unit4_Stack_Queue/
-│
-└── README.md
 
 💡 Ideal For
   Engineering students (B.Tech – CSE, AI & DS, etc.)
