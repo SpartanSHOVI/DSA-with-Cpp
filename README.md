@@ -39,9 +39,9 @@ This content follows the academic syllabus of **Sandip Institute of Technology a
 ---
 
 ### 💡 Ideal For
-  Engineering students (B.Tech – CSE, AI & DS, etc.)
-  Beginners learning C++ with DSA
-  Coders preparing for interviews
+-  Engineering students (B.Tech – CSE, AI & DS, etc.)
+-  Beginners learning C++ with DSA
+-  Coders preparing for interviews
 
 ---
 
